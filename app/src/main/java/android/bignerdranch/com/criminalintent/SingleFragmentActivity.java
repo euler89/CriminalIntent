@@ -10,7 +10,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 /**
- * Created by Francisco José on 10/03/2016.
+ * Created by Francisco R. on 10/03/2016.
  */
 public abstract class SingleFragmentActivity extends FragmentActivity {
 

@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Francisco José on 10/03/2016.
+ * Created by Francisco R. on 10/03/2016.
  */
 public class CrimeListFragment extends Fragment{
 
