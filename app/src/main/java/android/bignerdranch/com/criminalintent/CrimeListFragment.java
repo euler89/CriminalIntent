@@ -113,4 +113,9 @@ public class CrimeListFragment extends Fragment{
             return mCrimes.size();
         }//getItemCount()
     }//inner class
+
+    @Override
+    public void onResume() {
+        super.onResume();
+    }
 }
